@@ -1,0 +1,103 @@
+.profilePic { max-width: 100%; }
+.youtubeIcon {color: lightgreen}
+.spotifyIcon {color: lightgreen}
+.instagramIcon {color: lightgreen}
+.facebookIcon {color: lightgreen}
+.aboutBackground {
+	background-image: url("../img/greenpic.jpg");
+}
+.dog {max-width: 50%; }
+p {color: green; font-family: 'Abel', sans-serif;}
+h4 { font-family: 'Arvo', serif;
+}
+h6 { font-family: 'Arvo', serif;
+ }
+ h3 { font-family: 'Arvo', serif;
+ }
+ .customNav { background-color: #9FDE63; }
+ .homeBar { color: white; }
+ .aboutBar {color: white; }
+  .homeBar:hover { color: black; }
+ .aboutBar:hover {color: black; }
+ .earthGif {max-width: 100%}
+ .gifFrog {max-width: 100%}
+.backgroundVideo { 
+position: fixed;
+right: 0;
+bottom: 0;
+width: auto;
+min-width: 100%;
+height: auto;
+min-height: 100%;
+background-size: cover;
+z-index: -100;
+}
+.textColor {color: green; }
+.buttonAbout { background-color: green; color: white;}
+.barOne {background-color: green; }
+.bar {background-color: #39CE1B;}
+.barLast {background-color: #0B4001; }
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+th {
+  text-align: left;
+}
+td {
+  height: 50px;
+  vertical-align: bottom;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.gifBird {max-width: 100%; max-height: 100%; }
+.map {max-width: 100%;}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
