@@ -18,6 +18,10 @@ h6 { font-family: 'Arvo', serif;
  .homeBar { color: white; }
  .aboutBar {color: white; }
   .homeBar:hover { color: black; }
+  .galleryBar {color: white}
+  .galleryBar:hover { color: black; }
+  .contactBar {color: white;}
+  .contactBar:hover{color: black;}
  .aboutBar:hover {color: black; }
  .earthGif {max-width: 100%}
  .gifFrog {max-width: 100%}
